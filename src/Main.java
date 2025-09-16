@@ -94,6 +94,7 @@ public class Main {
             for (int j = 1; j <= i; j++) {
                 System.out.print(start);
                 start = 1 - start;
+                //Sample Commit
             }
             System.out.println();
         }
